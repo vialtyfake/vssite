@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/vialtyfake/vssite/issues"
   },
-  "homepage": "https://github.com/vialtyfake/vssite#readme"
+  "homepage": "https://github.com/vialtyfake/vssite#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
